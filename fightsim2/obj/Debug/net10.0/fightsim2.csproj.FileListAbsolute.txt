@@ -1,0 +1,14 @@
+C:\Users\hugo.strid\fightsim2\fightsim2\bin\Debug\net10.0\fightsim2.exe
+C:\Users\hugo.strid\fightsim2\fightsim2\bin\Debug\net10.0\fightsim2.deps.json
+C:\Users\hugo.strid\fightsim2\fightsim2\bin\Debug\net10.0\fightsim2.runtimeconfig.json
+C:\Users\hugo.strid\fightsim2\fightsim2\bin\Debug\net10.0\fightsim2.dll
+C:\Users\hugo.strid\fightsim2\fightsim2\bin\Debug\net10.0\fightsim2.pdb
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\fightsim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\fightsim2.AssemblyInfoInputs.cache
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\fightsim2.AssemblyInfo.cs
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\fightsim2.csproj.CoreCompileInputs.cache
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\fightsim2.dll
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\refint\fightsim2.dll
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\fightsim2.pdb
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\fightsim2.genruntimeconfig.cache
+C:\Users\hugo.strid\fightsim2\fightsim2\obj\Debug\net10.0\ref\fightsim2.dll
